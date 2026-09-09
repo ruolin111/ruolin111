@@ -32,7 +32,7 @@ Built an offline speech-to-action system for an autonomous rover.
 - Integrated local speech recognition and on-device inference
 - Designed for operation in unreliable-network environments
 
-[View Project]((https://github.com/hitchopen/HitchPlay))
+[View Project](https://github.com/hitchopen/HitchPlay)
 
 ---
 
@@ -46,7 +46,7 @@ Implemented a NeRF pipeline for novel-view synthesis and 3D scene reconstruction
 - Trained density and RGB prediction networks
 - Used volumetric rendering to synthesize unseen viewpoints
 
-[View Project]((https://github.com/ruolin111/ruolin111.github.io))
+[View Project](https://github.com/ruolin111/ruolin111.github.io)
 
 ---
 
